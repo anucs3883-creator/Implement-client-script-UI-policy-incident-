@@ -1,6 +1,6 @@
 # Implement Client Script & UI Policy (Incident)
 
-## Phase 1: Project Overview & Objectives
+## Phase 1: Project Overview & Objectives 
 * **Problem Statement:** Manual data entry on Incident records often leads to incomplete, inconsistent, or inaccurate data submission, impacting reporting accuracy, SLA compliance, and overall service quality.
 * **Objective:** Demonstrate how ServiceNow client-side controls (UI Policies and Client Scripts) enforce data integrity by dynamically controlling field visibility, mandatory status, auto-populating values, and validating submissions.
 * **Skills Covered:** Incident Management, UI Policy, UI Policy Actions, Client Scripts, and Form Validation.
